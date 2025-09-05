@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋  
 
-<!--
-**value-maximized/value-maximized** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 Connect with Me  
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-jay-vj/)  
+[![Substack](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://valuemaximized.substack.com/)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently working on ... an app to help managers make better decisions  
+- 🌱 I’m currently learning ... Python, system design & machine learning  
+- 👯 I’m looking to collaborate on ... building out the web app front end  
+- 🤔 I’m looking for help with ... building ML programs  
+- 💬 Ask me about ... strategy, startups, and decision-making  
+- 📫 How to reach me: ... connect with me on LinkedIn  
+- ⚡ Fun fact: ... I balance strategy decks with coding experiments 🚀  
