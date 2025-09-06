@@ -13,8 +13,9 @@
 
 **Why this matters?**
 
-In today’s fast-changing environment, CEOs and executive teams often struggle to connect strategy with execution because ERP systems focus on transactions, not decisions. IBP (see graphic below) bridges that gap by turning ERP data into executive-ready insights, linking strategy, operations, and finance in one place. It gives leaders the ability to see "what is" their standing performance today, explore “what if” scenarios for tomorrow, and understand the trade-offs of capital, people, and market choices. By uniting planning and performance review, IBP empowers organizations to move faster, allocate resources smarter, and build a lasting competitive advantage.
+In today’s fast-changing environment, CEOs and executive teams often struggle to connect strategy with execution because ERP systems focus on transactions, not decisions. IBP bridges that gap by turning ERP data into executive-ready insights, linking strategy, operations, and finance in one place. It gives leaders the ability to see "what is" their standing performance today, explore “what if” scenarios for tomorrow, and understand the trade-offs of capital, people, and market choices. By uniting planning and performance review, IBP empowers organizations to move faster, allocate resources smarter, and build a lasting competitive advantage. 
 
+_See the business lattice graphic below to understand where IBP sits alongwith your other tech stack._
 
 _**Product Goals**_
 
