@@ -1,6 +1,4 @@
-## Hi there 👋  
-
-### 🌐 Connect with Me  
+## Welcome to Value Maximized 👋🌐 Connect with Me  
 - 💬 Ask me about ... strategy, startups, and decision-making  
 - 📫 How to reach me: ... connect with me on LinkedIn or follow my newsletter on Substack
 - ⚡ Fun fact: ... I balance strategy decks with coding experiments 🚀
@@ -11,9 +9,9 @@
 
 ---
 
-🔭 I’m currently working on ... an open-source Business Planning App to help ELT (executive leadership teams) plan business better & faster.   
+🔭 I’m currently working on ... an open-source IBP **Integrated Business Planning** App to help ELT (executive leadership teams) plan business better & faster.   
 
-Product Goals
+_**Product Goals**_
 - Unite strategy + operations + finance in one place.
 - Give execs visibility into trade-offs (capital, people, markets).
 - Track performance vs. strategy continuously.
