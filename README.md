@@ -38,6 +38,6 @@ _**Features**_
 - Designed to make **business planning faster, clearer, and adaptive**, helping executives respond confidently to uncertainty.  
 
 
-**As an open-source project, it invites collaboration from the community to extend integrations, improve modeling, and shape the future of strategic planning.**
+**As an open-source project, I invite any collaboration from the community to extend integrations, improve modeling, and shape the future of strategic planning.**
 
 <img width="2000" height="1545" alt="How-To graphic (3)" src="https://github.com/user-attachments/assets/d14e0781-3c31-47df-ac92-4fabdcb1fc2f" />
