@@ -9,16 +9,20 @@
 
 ------------------------------
 
-🔭 I’m currently working on ... an open-source **IBP** _**Integrated Business Planning**_ App to help ELT (executive leadership teams) plan business better & faster.   
+🔭 I’m developing an open-source **IBP** _**Integrated Business Planning**_  - an app to help ELT (executive leadership teams) plan business better & faster.   
 
-Why this matters?
+**Why this matters?**
+
 In today’s fast-changing environment, CEOs and executive teams often struggle to connect strategy with execution because ERP systems focus on transactions, not decisions. IBP (see graphic below) bridges that gap by turning ERP data into executive-ready insights, linking strategy, operations, and finance in one place. It gives leaders the ability to see "what is" their standing performance today, explore “what if” scenarios for tomorrow, and understand the trade-offs of capital, people, and market choices. By uniting planning and performance review, IBP empowers organizations to move faster, allocate resources smarter, and build a lasting competitive advantage.
 
-_**Product Goals**_  
+
+_**Product Goals**_
+
 - 📊 Unite strategy, operations, and finance in one place.  
 - 👀 Give execs visibility into trade-offs across capital, people, and markets.  
 - 📈 Track performance vs. strategy continuously with live ERP data.  
 - ⚡ Create competitive advantage by making planning faster, clearer, and adaptive.    
+
 
 _**Features**_
 
@@ -33,7 +37,6 @@ _**Features**_
 - Designed to make **business planning faster, clearer, and adaptive**, helping executives respond confidently to uncertainty.  
 
 
-**As an open-source project, it invites collaboration from the community to extend integrations, improve modeling, and shape the future of strategic planning.
-**
+**As an open-source project, it invites collaboration from the community to extend integrations, improve modeling, and shape the future of strategic planning.**
 
 <img width="2000" height="1545" alt="How-To graphic (3)" src="https://github.com/user-attachments/assets/d14e0781-3c31-47df-ac92-4fabdcb1fc2f" />
