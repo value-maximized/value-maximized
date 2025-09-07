@@ -9,6 +9,7 @@
 
 ------------------------------
 
+
 🔭 I’m developing an open-source **IBP** _**Integrated Business Planning**_  - an app to help ELT (executive leadership teams) plan business better & faster.   
 
 **Why this matters?**
@@ -17,7 +18,17 @@ In today’s fast-changing environment, CEOs and executive teams often struggle 
 
 _See the business lattice graphic below to understand where IBP sits alongwith your other tech stack._
 
-_**Product Goals**_
+## 🛠 Tech Stack
+- 🎨 **Frontend:** [Flask](https://flask.palletsprojects.com/)  
+- ⚙️ **Backend:** Python (Flask APIs & services)  
+- 🗄 **Database:**  
+  - Postgres → for plans, scenarios, workflows  
+  - Cube.js + ClickHouse → for dashboards & analytics  
+- 🔌 **Integration:** Direct [Odoo](https://www.odoo.com/) ERP API connector (read/write where possible)  
+- ☁️ **Infrastructure:** Dockerized services, deployable on AWS  
+
+
+## ⚡Product Goals**_
 
 - 📊 Unite strategy, operations, and finance in one place.  
 - 👀 Give execs visibility into trade-offs across capital, people, and markets.  
