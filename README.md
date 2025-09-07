@@ -12,7 +12,7 @@
 
 🔭 I’m developing an open-source **IBP** _**Integrated Business Planning**_  - an app to help ELT (executive leadership teams) plan business better & faster.   
 
-**Why this matters?**
+## Why IBP apps matter?
 
 In today’s fast-changing environment, CEOs and executive teams often struggle to connect strategy with execution because ERP systems focus on transactions, not decisions. IBP bridges that gap by turning ERP data into executive-ready insights, linking strategy, operations, and finance in one place. It gives leaders the ability to see "what is" their standing performance today, explore “what if” scenarios for tomorrow, and understand the trade-offs of capital, people, and market choices. By uniting planning and performance review, IBP empowers organizations to move faster, allocate resources smarter, and build a lasting competitive advantage. 
 
@@ -28,8 +28,9 @@ _See the business lattice graphic below to understand where IBP sits alongwith y
 - ☁️ **Infrastructure:** Dockerized services, deployable on AWS  
 
 
-## ⚡Product Goals**_
+## ⚡Product Goals & Features
 
+**_Goals_**
 - 📊 Unite strategy, operations, and finance in one place.  
 - 👀 Give execs visibility into trade-offs across capital, people, and markets.  
 - 📈 Track performance vs. strategy continuously with live ERP data.  
